@@ -1,0 +1,28 @@
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\105. ORN. Kriptoloji Uyg\105. ORN. Kriptoloji Uyg\bin\Debug\_105.ORN.Kriptoloji_Uyg.exe.config
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\105. ORN. Kriptoloji Uyg\105. ORN. Kriptoloji Uyg\bin\Debug\_105.ORN.Kriptoloji_Uyg.exe
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\105. ORN. Kriptoloji Uyg\105. ORN. Kriptoloji Uyg\bin\Debug\_105.ORN.Kriptoloji_Uyg.pdb
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\105. ORN. Kriptoloji Uyg\105. ORN. Kriptoloji Uyg\bin\Debug\MetroFramework.Design.dll
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\105. ORN. Kriptoloji Uyg\105. ORN. Kriptoloji Uyg\bin\Debug\MetroFramework.dll
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\105. ORN. Kriptoloji Uyg\105. ORN. Kriptoloji Uyg\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\105. ORN. Kriptoloji Uyg\105. ORN. Kriptoloji Uyg\bin\Debug\Xander.UI.Web.dll
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\105. ORN. Kriptoloji Uyg\105. ORN. Kriptoloji Uyg\bin\Debug\Xander.UI.Web.pdb
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\105. ORN. Kriptoloji Uyg\105. ORN. Kriptoloji Uyg\obj\Debug\105. ORN. Kriptoloji Uyg.csprojResolveAssemblyReference.cache
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\105. ORN. Kriptoloji Uyg\105. ORN. Kriptoloji Uyg\obj\Debug\_105.ORN.Kriptoloji_Uyg.Form1.resources
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\105. ORN. Kriptoloji Uyg\105. ORN. Kriptoloji Uyg\obj\Debug\_105.ORN.Kriptoloji_Uyg.Properties.Resources.resources
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\105. ORN. Kriptoloji Uyg\105. ORN. Kriptoloji Uyg\obj\Debug\105. ORN. Kriptoloji Uyg.csproj.GenerateResource.Cache
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\105. ORN. Kriptoloji Uyg\105. ORN. Kriptoloji Uyg\obj\Debug\_105.ORN.Kriptoloji_Uyg.exe
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\105. ORN. Kriptoloji Uyg\105. ORN. Kriptoloji Uyg\obj\Debug\_105.ORN.Kriptoloji_Uyg.pdb
+C:\Users\TOSHIBA\Desktop\Kriptoloji Uyg\105. ORN. Kriptoloji Uyg\bin\Debug\_105.ORN.Kriptoloji_Uyg.exe.config
+C:\Users\TOSHIBA\Desktop\Kriptoloji Uyg\105. ORN. Kriptoloji Uyg\obj\Debug\_105.ORN.Kriptoloji_Uyg.exe
+C:\Users\TOSHIBA\Desktop\Kriptoloji Uyg\105. ORN. Kriptoloji Uyg\obj\Debug\_105.ORN.Kriptoloji_Uyg.pdb
+C:\Users\TOSHIBA\Desktop\Kriptoloji Uyg\105. ORN. Kriptoloji Uyg\bin\Debug\_105.ORN.Kriptoloji_Uyg.exe
+C:\Users\TOSHIBA\Desktop\Kriptoloji Uyg\105. ORN. Kriptoloji Uyg\bin\Debug\_105.ORN.Kriptoloji_Uyg.pdb
+C:\Users\TOSHIBA\Desktop\Kriptoloji Uyg\105. ORN. Kriptoloji Uyg\bin\Debug\MetroFramework.Design.dll
+C:\Users\TOSHIBA\Desktop\Kriptoloji Uyg\105. ORN. Kriptoloji Uyg\bin\Debug\MetroFramework.dll
+C:\Users\TOSHIBA\Desktop\Kriptoloji Uyg\105. ORN. Kriptoloji Uyg\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\TOSHIBA\Desktop\Kriptoloji Uyg\105. ORN. Kriptoloji Uyg\bin\Debug\Xander.UI.Web.dll
+C:\Users\TOSHIBA\Desktop\Kriptoloji Uyg\105. ORN. Kriptoloji Uyg\bin\Debug\Xander.UI.Web.pdb
+C:\Users\TOSHIBA\Desktop\Kriptoloji Uyg\105. ORN. Kriptoloji Uyg\obj\Debug\105. ORN. Kriptoloji Uyg.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Kriptoloji Uyg\105. ORN. Kriptoloji Uyg\obj\Debug\_105.ORN.Kriptoloji_Uyg.Form1.resources
+C:\Users\TOSHIBA\Desktop\Kriptoloji Uyg\105. ORN. Kriptoloji Uyg\obj\Debug\_105.ORN.Kriptoloji_Uyg.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\Kriptoloji Uyg\105. ORN. Kriptoloji Uyg\obj\Debug\105. ORN. Kriptoloji Uyg.csproj.GenerateResource.Cache

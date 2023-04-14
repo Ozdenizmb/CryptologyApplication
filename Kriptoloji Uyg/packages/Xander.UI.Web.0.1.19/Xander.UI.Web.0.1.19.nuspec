@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Xander.UI.Web</id>
+    <version>0.1.19</version>
+    <title>Xander.UI.Web</title>
+    <authors>Colin Angus Mackay</authors>
+    <owners>Colin Angus Mackay</owners>
+    <licenseUrl>https://github.com/colinangusmackay/Xander.UI.Web/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/colinangusmackay/Xander.UI.Web</projectUrl>
+    <iconUrl>https://api.nuget.org/v3-flatcontainer/xander.ui.web/0.1.19/icon</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A set of web-framework independent utility classes that assist in making web applications.
+      
+      This package includes the following
+      * Gravatar building
+      * Bytes to Hex
+      * MD5 generation</description>
+    <summary>A set of utility classes for helping with web applications without ties to a specific web framework.</summary>
+    <copyright>Copyright © 2014 Colin Angus Mackay. Available under MIT License.</copyright>
+    <tags>xander web gravatar</tags>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Web" targetFramework="" />
+    </frameworkAssemblies>
+  </metadata>
+</package>
